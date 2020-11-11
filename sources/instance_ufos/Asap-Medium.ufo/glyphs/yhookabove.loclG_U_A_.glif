@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="yhookabove.loclGUA" format="2">
-  <advance width="557.0"/>
-  <outline>
-    <component base="y.loclGUA"/>
-    <component base="hookabovecomb" xOffset="187.40384615384616"/>
-  </outline>
-</glyph>

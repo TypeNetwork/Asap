@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ydieresis.loclGUA" format="2">
-  <advance width="557.0"/>
-  <outline>
-    <component base="y.loclGUA"/>
-    <component base="dieresiscomb" xOffset="134.3846153846154"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ytilde.loclGUA" format="2">
-  <advance width="557.0"/>
-  <outline>
-    <component base="y.loclGUA"/>
-    <component base="tildecomb" xOffset="94.92307692307692"/>
-  </outline>
-</glyph>
