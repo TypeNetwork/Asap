@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="535.0"/>
+  <outline>
+    <contour>
+      <point x="171.34615384615384" y="-3.4615384615384617" type="curve" smooth="yes"/>
+      <point x="201.69230769230768" y="-3.4615384615384617" type="line" smooth="yes"/>
+      <point x="227.6153846153846" y="-3.4615384615384617"/>
+      <point x="244.5" y="1.5769230769230766"/>
+      <point x="249.80769230769232" y="13.5" type="curve" smooth="yes"/>
+      <point x="457.38461538461536" y="465.34615384615387" type="line" smooth="yes"/>
+      <point x="461.0" y="473.88461538461536"/>
+      <point x="463.96153846153845" y="482.11538461538464"/>
+      <point x="463.96153846153845" y="487.11538461538464" type="curve" smooth="yes"/>
+      <point x="463.96153846153845" y="512.0"/>
+      <point x="447.6923076923077" y="561.9615384615385"/>
+      <point x="429.8076923076923" y="561.9615384615385" type="curve" smooth="yes"/>
+      <point x="94.0" y="561.9615384615385" type="line" smooth="yes"/>
+      <point x="75.07692307692308" y="561.9615384615385"/>
+      <point x="69.11538461538461" y="546.0384615384615"/>
+      <point x="69.11538461538461" y="520.5384615384615" type="curve" smooth="yes"/>
+      <point x="69.11538461538461" y="506.2692307692308" type="line" smooth="yes"/>
+      <point x="69.11538461538461" y="473.8076923076923"/>
+      <point x="78.73076923076923" y="463.84615384615387"/>
+      <point x="94.0" y="463.84615384615387" type="curve" smooth="yes"/>
+      <point x="332.03846153846155" y="463.84615384615387" type="line"/>
+      <point x="130.5" y="28.76923076923077" type="line" smooth="yes"/>
+      <point x="126.84615384615384" y="20.807692307692307"/>
+      <point x="125.84615384615384" y="16.5"/>
+      <point x="125.84615384615384" y="13.192307692307693" type="curve" smooth="yes"/>
+      <point x="125.84615384615384" y="2.1538461538461533"/>
+      <point x="144.15384615384616" y="-3.4615384615384617"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>86</integer>
+        <key>verticalShift</key>
+        <integer>-42</integer>
+        <key>weight</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

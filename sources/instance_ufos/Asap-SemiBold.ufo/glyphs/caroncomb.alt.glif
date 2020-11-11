@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <anchor x="0.0" y="700.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="39.46153846153846" y="518.1923076923077" type="curve" smooth="yes"/>
+      <point x="64.76923076923077" y="518.1923076923077"/>
+      <point x="115.73076923076923" y="588.5769230769231"/>
+      <point x="115.73076923076923" y="663.5384615384615" type="curve" smooth="yes"/>
+      <point x="115.73076923076923" y="685.7692307692307"/>
+      <point x="100.73076923076923" y="702.0"/>
+      <point x="69.1923076923077" y="702.0" type="curve" smooth="yes"/>
+      <point x="53.65384615384615" y="702.0" type="line" smooth="yes"/>
+      <point x="21.423076923076923" y="702.0"/>
+      <point x="7.115384615384615" y="686.3846153846154"/>
+      <point x="7.115384615384615" y="662.1538461538462" type="curve" smooth="yes"/>
+      <point x="7.115384615384615" y="614.6923076923077"/>
+      <point x="0.0" y="578.3846153846154"/>
+      <point x="0.0" y="537.7692307692307" type="curve" smooth="yes"/>
+      <point x="0.0" y="523.1538461538462"/>
+      <point x="23.884615384615387" y="518.1923076923077"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>102</integer>
+    </dict>
+  </lib>
+</glyph>

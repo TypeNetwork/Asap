@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.osf.zero" format="2">
+  <advance width="535.0"/>
+  <outline>
+    <contour>
+      <point x="160.32692307692307" y="52.11538461538461" type="line"/>
+      <point x="411.59615384615387" y="477.1923076923077" type="line"/>
+      <point x="368.96153846153845" y="504.21153846153845" type="line"/>
+      <point x="119.6923076923077" y="82.84615384615384" type="line"/>
+    </contour>
+    <component base="zero.osf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>weight</key>
+        <integer>-2</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

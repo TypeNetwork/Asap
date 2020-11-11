@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="136.1509433962264" y="523.0" name="_top"/>
+  <anchor x="152.45283018867926" y="678.0188679245283" name="top"/>
+  <outline>
+    <component base="grave"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>161</integer>
+    </dict>
+  </lib>
+</glyph>

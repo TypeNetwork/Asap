@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f" format="2">
+  <advance width="650.0"/>
+  <outline>
+    <contour>
+      <point x="218.83018867924528" y="421.2830188679245" type="line"/>
+      <point x="418.22641509433964" y="421.2830188679245" type="line"/>
+      <point x="428.8679245283019" y="523.0" type="line"/>
+      <point x="229.47169811320754" y="523.0" type="line"/>
+    </contour>
+    <component base="f"/>
+    <component base="f" xOffset="325.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>f</string>
+    </dict>
+  </lib>
+</glyph>

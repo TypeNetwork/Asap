@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="133.51923076923077" y="523.0" name="_top"/>
+  <anchor x="133.51923076923077" y="667.8846153846154" name="top"/>
+  <outline>
+    <contour>
+      <point x="217.26923076923077" y="577.5384615384615" type="curve" smooth="yes"/>
+      <point x="252.30769230769232" y="577.5384615384615"/>
+      <point x="267.03846153846155" y="585.4038461538462"/>
+      <point x="267.03846153846155" y="602.4230769230769" type="curve" smooth="yes"/>
+      <point x="267.03846153846155" y="661.8846153846154" type="line" smooth="yes"/>
+      <point x="267.03846153846155" y="678.9038461538462"/>
+      <point x="252.30769230769232" y="686.7692307692307"/>
+      <point x="217.26923076923077" y="686.7692307692307" type="curve" smooth="yes"/>
+      <point x="182.23076923076923" y="686.7692307692307"/>
+      <point x="167.5" y="678.9038461538462"/>
+      <point x="167.5" y="661.8846153846154" type="curve" smooth="yes"/>
+      <point x="167.5" y="602.4230769230769" type="line" smooth="yes"/>
+      <point x="167.5" y="585.4038461538462"/>
+      <point x="182.23076923076923" y="577.5384615384615"/>
+    </contour>
+    <contour>
+      <point x="49.76923076923077" y="577.5384615384615" type="curve" smooth="yes"/>
+      <point x="84.8076923076923" y="577.5384615384615"/>
+      <point x="99.53846153846153" y="585.4038461538462"/>
+      <point x="99.53846153846153" y="602.4230769230769" type="curve" smooth="yes"/>
+      <point x="99.53846153846153" y="661.8846153846154" type="line" smooth="yes"/>
+      <point x="99.53846153846153" y="678.9038461538462"/>
+      <point x="84.8076923076923" y="686.7692307692307"/>
+      <point x="49.76923076923077" y="686.7692307692307" type="curve" smooth="yes"/>
+      <point x="14.73076923076923" y="686.7692307692307"/>
+      <point x="0.0" y="678.9038461538462"/>
+      <point x="0.0" y="661.8846153846154" type="curve" smooth="yes"/>
+      <point x="0.0" y="602.4230769230769" type="line" smooth="yes"/>
+      <point x="0.0" y="585.4038461538462"/>
+      <point x="14.73076923076923" y="577.5384615384615"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>248</integer>
+    </dict>
+  </lib>
+</glyph>

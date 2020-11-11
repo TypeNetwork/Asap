@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j_acutecomb" format="2">
+  <advance width="541.0"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="58.80769230769231"/>
+    <component base="jdotless" xOffset="265.0"/>
+    <component base="acutecomb" xOffset="334.46153846153845"/>
+  </outline>
+</glyph>

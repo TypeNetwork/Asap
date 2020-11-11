@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle.loclGUA" format="2">
+  <advance width="183.0"/>
+  <outline>
+    <contour>
+      <point x="78.96153846153847" y="386.1923076923077" type="curve" smooth="yes"/>
+      <point x="103.23076923076923" y="386.1923076923077"/>
+      <point x="152.73076923076923" y="496.8076923076923"/>
+      <point x="152.73076923076923" y="661.5384615384615" type="curve" smooth="yes"/>
+      <point x="152.73076923076923" y="683.7692307692307"/>
+      <point x="137.73076923076923" y="700.0"/>
+      <point x="106.1923076923077" y="700.0" type="curve" smooth="yes"/>
+      <point x="90.65384615384616" y="700.0" type="line" smooth="yes"/>
+      <point x="53.84615384615385" y="700.0"/>
+      <point x="37.57692307692308" y="684.3846153846154"/>
+      <point x="37.57692307692308" y="660.1538461538462" type="curve"/>
+      <point x="39.5" y="405.7692307692308" type="line"/>
+      <point x="39.5" y="391.15384615384613"/>
+      <point x="63.38461538461539" y="386.1923076923077"/>
+    </contour>
+  </outline>
+</glyph>

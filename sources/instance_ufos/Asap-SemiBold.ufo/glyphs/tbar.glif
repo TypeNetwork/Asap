@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="342.0"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="59.61538461538461" y="225.19230769230768" type="curve"/>
+      <point x="267.0" y="225.19230769230768" type="line" smooth="yes"/>
+      <point x="285.5769230769231" y="225.19230769230768"/>
+      <point x="293.53846153846155" y="236.15384615384616"/>
+      <point x="293.53846153846155" y="261.7307692307692" type="curve" smooth="yes"/>
+      <point x="293.53846153846155" y="275.0" type="line" smooth="yes"/>
+      <point x="293.53846153846155" y="300.5769230769231"/>
+      <point x="285.5769230769231" y="311.53846153846155"/>
+      <point x="267.0" y="311.53846153846155" type="curve" smooth="yes"/>
+      <point x="59.61538461538461" y="311.53846153846155" type="line" smooth="yes"/>
+      <point x="41.03846153846154" y="311.53846153846155"/>
+      <point x="33.07692307692308" y="300.5769230769231"/>
+      <point x="33.07692307692308" y="275.0" type="curve" smooth="yes"/>
+      <point x="33.07692307692308" y="261.7307692307692" type="line" smooth="yes"/>
+      <point x="33.07692307692308" y="236.15384615384616"/>
+      <point x="41.03846153846154" y="225.19230769230768"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

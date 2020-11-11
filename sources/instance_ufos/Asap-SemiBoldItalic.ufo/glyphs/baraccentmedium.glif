@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baraccentmedium" format="2">
+  <advance width="403.0"/>
+  <anchor x="207.33962264150944" y="316.6981132075472" name="_center"/>
+  <outline>
+    <contour>
+      <point x="24.660377358490567" y="275.0943396226415" type="curve" smooth="yes"/>
+      <point x="379.6981132075472" y="275.0943396226415" type="line" smooth="yes"/>
+      <point x="395.0188679245283" y="275.0943396226415"/>
+      <point x="405.0188679245283" y="285.41509433962267"/>
+      <point x="408.33962264150944" y="316.0188679245283" type="curve" smooth="yes"/>
+      <point x="409.33962264150944" y="324.6981132075472" type="line" smooth="yes"/>
+      <point x="412.66037735849056" y="352.2830188679245"/>
+      <point x="405.0" y="361.9433962264151"/>
+      <point x="390.33962264150944" y="361.9433962264151" type="curve" smooth="yes"/>
+      <point x="34.64150943396226" y="361.9433962264151" type="line" smooth="yes"/>
+      <point x="19.32075471698113" y="361.9433962264151"/>
+      <point x="9.981132075471699" y="351.62264150943395"/>
+      <point x="6.660377358490566" y="323.0" type="curve" smooth="yes"/>
+      <point x="5.660377358490566" y="314.3207547169811" type="line" smooth="yes"/>
+      <point x="2.339622641509434" y="285.41509433962267"/>
+      <point x="10.0" y="275.0943396226415"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

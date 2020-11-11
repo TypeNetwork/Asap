@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentinvert" format="2">
+  <advance width="138.05769230769232"/>
+  <outline>
+    <contour>
+      <point x="104.4423076923077" y="767.5576923076923" type="curve" smooth="yes"/>
+      <point x="70.86538461538461" y="767.5576923076923"/>
+      <point x="0.0" y="702.3653846153846"/>
+      <point x="0.0" y="614.7307692307693" type="curve" smooth="yes"/>
+      <point x="0.0" y="595.4230769230769"/>
+      <point x="15.0" y="582.1153846153846"/>
+      <point x="42.88461538461539" y="582.1153846153846" type="curve" smooth="yes"/>
+      <point x="54.76923076923077" y="582.1153846153846" type="line" smooth="yes"/>
+      <point x="86.09615384615384" y="582.1153846153846"/>
+      <point x="100.53846153846153" y="596.2692307692307"/>
+      <point x="100.53846153846153" y="617.5769230769231" type="curve" smooth="yes"/>
+      <point x="100.53846153846153" y="694.7307692307693"/>
+      <point x="138.05769230769232" y="728.9807692307693"/>
+      <point x="138.05769230769232" y="750.5384615384615" type="curve" smooth="yes"/>
+      <point x="138.05769230769232" y="763.6923076923077"/>
+      <point x="117.46153846153847" y="767.5576923076923"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>commaaccentcomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

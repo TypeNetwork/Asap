@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="136.30769230769232" y="523.0" name="_top"/>
+  <anchor x="136.30769230769232" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="136.30769230769232" y="715.6923076923077" type="curve" smooth="yes"/>
+      <point x="58.42307692307692" y="715.6923076923077"/>
+      <point x="0.0" y="666.5769230769231"/>
+      <point x="0.0" y="606.1153846153846" type="curve" smooth="yes"/>
+      <point x="0.0" y="587.4230769230769"/>
+      <point x="10.23076923076923" y="579.1538461538462"/>
+      <point x="29.115384615384613" y="579.1538461538462" type="curve" smooth="yes"/>
+      <point x="43.69230769230769" y="579.1538461538462"/>
+      <point x="50.34615384615385" y="585.0769230769231"/>
+      <point x="57.269230769230774" y="595.0769230769231" type="curve" smooth="yes"/>
+      <point x="68.1923076923077" y="612.8846153846154"/>
+      <point x="82.15384615384616" y="633.3461538461538"/>
+      <point x="136.30769230769232" y="633.3461538461538" type="curve" smooth="yes"/>
+      <point x="194.03846153846155" y="633.3461538461538"/>
+      <point x="206.03846153846155" y="611.5769230769231"/>
+      <point x="216.30769230769232" y="593.7692307692307" type="curve" smooth="yes"/>
+      <point x="222.57692307692307" y="584.4230769230769"/>
+      <point x="229.23076923076923" y="579.1538461538462"/>
+      <point x="243.15384615384616" y="579.1538461538462" type="curve" smooth="yes"/>
+      <point x="262.03846153846155" y="579.1538461538462"/>
+      <point x="272.2692307692308" y="587.4230769230769"/>
+      <point x="272.2692307692308" y="606.1153846153846" type="curve" smooth="yes"/>
+      <point x="272.2692307692308" y="666.5769230769231"/>
+      <point x="215.23076923076923" y="715.6923076923077"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>269</integer>
+    </dict>
+  </lib>
+</glyph>

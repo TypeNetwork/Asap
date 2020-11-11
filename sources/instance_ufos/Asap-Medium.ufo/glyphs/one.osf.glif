@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="535.0"/>
+  <outline>
+    <contour>
+      <point x="106.90384615384616" y="0.0" type="curve" smooth="yes"/>
+      <point x="449.6923076923077" y="0.0" type="line" smooth="yes"/>
+      <point x="466.71153846153845" y="0.0"/>
+      <point x="471.28846153846155" y="14.01923076923077"/>
+      <point x="471.28846153846155" y="34.480769230769226" type="curve" smooth="yes"/>
+      <point x="471.28846153846155" y="46.92307692307692" type="line" smooth="yes"/>
+      <point x="471.28846153846155" y="73.53846153846153"/>
+      <point x="463.13461538461536" y="81.40384615384616"/>
+      <point x="449.6923076923077" y="81.40384615384616" type="curve" smooth="yes"/>
+      <point x="340.09615384615387" y="81.40384615384616" type="line"/>
+      <point x="340.09615384615387" y="544.7115384615385" type="line" smooth="yes"/>
+      <point x="340.09615384615387" y="553.7115384615385"/>
+      <point x="321.78846153846155" y="562.5769230769231"/>
+      <point x="308.5" y="562.5769230769231" type="curve"/>
+      <point x="100.75" y="524.0192307692307" type="line" smooth="yes"/>
+      <point x="87.73076923076923" y="521.7307692307693"/>
+      <point x="81.73076923076923" y="514.7115384615385"/>
+      <point x="81.73076923076923" y="504.4230769230769" type="curve" smooth="yes"/>
+      <point x="81.73076923076923" y="485.53846153846155"/>
+      <point x="86.73076923076923" y="446.1923076923077"/>
+      <point x="104.1923076923077" y="446.1923076923077" type="curve"/>
+      <point x="239.21153846153845" y="464.59615384615387" type="line"/>
+      <point x="239.21153846153845" y="81.40384615384616" type="line"/>
+      <point x="106.90384615384616" y="81.40384615384616" type="line" smooth="yes"/>
+      <point x="90.17307692307692" y="81.40384615384616"/>
+      <point x="85.3076923076923" y="67.96153846153845"/>
+      <point x="85.3076923076923" y="46.92307692307692" type="curve" smooth="yes"/>
+      <point x="85.3076923076923" y="34.480769230769226" type="line" smooth="yes"/>
+      <point x="85.3076923076923" y="8.442307692307692"/>
+      <point x="93.17307692307692" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>weight</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

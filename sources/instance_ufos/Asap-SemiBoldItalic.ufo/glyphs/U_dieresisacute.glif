@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisacute" format="2">
+  <advance width="712.0"/>
+  <unicode hex="01D7"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb.case" xOffset="232.18867924528303" yOffset="177.0"/>
+    <component base="acutecomb.case" xOffset="300.37735849056605" yOffset="325.60377358490564"/>
+  </outline>
+</glyph>

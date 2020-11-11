@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="695.0"/>
+  <unicode hex="0044"/>
+  <anchor x="334.1923076923077" y="0.0" name="bottom"/>
+  <anchor x="149.5" y="350.0" name="center"/>
+  <anchor x="330.3076923076923" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="119.8076923076923" y="0.0" type="curve" smooth="yes"/>
+      <point x="329.65384615384613" y="0.0" type="line" smooth="yes"/>
+      <point x="523.8846153846154" y="0.0"/>
+      <point x="645.8461538461538" y="112.23076923076923"/>
+      <point x="645.8461538461538" y="350.0" type="curve" smooth="yes"/>
+      <point x="645.8461538461538" y="587.4230769230769"/>
+      <point x="523.8846153846154" y="700.0"/>
+      <point x="329.65384615384613" y="700.0" type="curve" smooth="yes"/>
+      <point x="119.8076923076923" y="700.0" type="line" smooth="yes"/>
+      <point x="94.23076923076923" y="700.0"/>
+      <point x="83.26923076923077" y="689.0384615384615"/>
+      <point x="83.26923076923077" y="663.4615384615385" type="curve" smooth="yes"/>
+      <point x="83.26923076923077" y="36.53846153846154" type="line" smooth="yes"/>
+      <point x="83.26923076923077" y="10.961538461538462"/>
+      <point x="94.23076923076923" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="215.07692307692307" y="111.96153846153845" type="line"/>
+      <point x="215.07692307692307" y="588.0384615384615" type="line"/>
+      <point x="327.2307692307692" y="588.0384615384615" type="line" smooth="yes"/>
+      <point x="440.46153846153845" y="588.0384615384615"/>
+      <point x="511.03846153846155" y="511.7307692307692"/>
+      <point x="511.03846153846155" y="350.0" type="curve" smooth="yes"/>
+      <point x="511.03846153846155" y="187.92307692307693"/>
+      <point x="440.46153846153845" y="111.96153846153845"/>
+      <point x="327.2307692307692" y="111.96153846153845" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

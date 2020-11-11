@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorntilde" format="2">
+  <advance width="731.0"/>
+  <unicode hex="1EE0"/>
+  <outline>
+    <contour>
+      <point x="469.3716981132076" y="752.6981132075472" type="curve" smooth="yes"/>
+      <point x="514.3377358490566" y="752.6981132075472"/>
+      <point x="552.6811320754717" y="785.9433962264151"/>
+      <point x="568.9150943396226" y="825.6792452830189" type="curve" smooth="yes"/>
+      <point x="571.9207547169812" y="833.0188679245283"/>
+      <point x="573.4150943396226" y="838.6792452830189"/>
+      <point x="573.4150943396226" y="843.3207547169811" type="curve" smooth="yes"/>
+      <point x="573.4150943396226" y="855.9433962264151"/>
+      <point x="548.6056603773585" y="868.2641509433962"/>
+      <point x="539.3169811320755" y="868.2641509433962" type="curve" smooth="yes"/>
+      <point x="524.6283018867925" y="868.2641509433962"/>
+      <point x="513.2169811320755" y="831.8679245283018"/>
+      <point x="475.6716981132075" y="831.8679245283018" type="curve" smooth="yes"/>
+      <point x="440.8433962264151" y="831.8679245283018"/>
+      <point x="399.00188679245286" y="868.9245283018868"/>
+      <point x="345.0188679245283" y="868.9245283018868" type="curve" smooth="yes"/>
+      <point x="297.3698113207547" y="868.9245283018868"/>
+      <point x="260.5207547169811" y="834.6603773584906"/>
+      <point x="246.69811320754718" y="796.9622641509434" type="curve" smooth="yes"/>
+      <point x="244.28679245283018" y="790.6037735849056"/>
+      <point x="242.7924528301887" y="784.9433962264151"/>
+      <point x="242.7924528301887" y="778.3207547169811" type="curve" smooth="yes"/>
+      <point x="242.7924528301887" y="766.3396226415094"/>
+      <point x="264.34150943396224" y="754.0377358490566"/>
+      <point x="278.0962264150943" y="754.0377358490566" type="curve" smooth="yes"/>
+      <point x="294.58490566037733" y="754.0377358490566"/>
+      <point x="303.29622641509434" y="789.0754716981132"/>
+      <point x="341.9962264150943" y="789.0754716981132" type="curve" smooth="yes"/>
+      <point x="370.57547169811323" y="789.0754716981132"/>
+      <point x="415.35471698113207" y="752.6981132075472"/>
+    </contour>
+    <component base="Ohorn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ohorn</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
